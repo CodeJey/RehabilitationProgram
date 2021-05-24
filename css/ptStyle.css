@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(rgb(231, 231, 231), #2da58b94);
+    background-repeat: no-repeat;
+}
+#patients{
+    border: solid;
+    margin: 0 auto;
+    border: solid;
+    border-color: cyan;
+    border-width: 3px;
+    display: none;
+}
+td{
+    border: solid;
+    margin: 0 auto;
+    border: solid;
+    border-color: brown;
+    border-width: 2px;
+}

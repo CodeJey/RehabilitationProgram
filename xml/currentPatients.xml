@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PATIENTS>
+    <PATIENT>
+        <NAME>Иван Иванов</NAME>
+        <AGE>21</AGE>
+        <ID>123456</ID>
+    </PATIENT>
+    <PATIENT>
+        <NAME>Test Patient 1</NAME>
+        <AGE>21</AGE>
+        <ID>123456</ID>
+    </PATIENT>
+</PATIENTS>
