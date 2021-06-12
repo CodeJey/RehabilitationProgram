@@ -3,55 +3,6 @@ body{
   background-repeat: no-repeat;
 }
 
-#navo{
-  width: 76%;
-  position: -webkit-sticky;
-  position: sticky;
-  margin: 0 auto;
-  top: 0;
-  background: linear-gradient(#e4dada, #2da58b94);
-  text-align: center;
-}
-
-ul {
-  display: inline-block;
-  margin: auto;
-  list-style-type: none;
-  margin-top: 5px;
-  padding: 1%;
-  padding-top: 0px;
-  padding-bottom: 0px;
-  overflow: hidden;
-  border-radius: 1px;
-}
-
-li {
-  float: left;
-  padding-right: 4px;
-  padding-left: 4px;
-  border-right: 1px solid rgb(209, 209, 209);
-}
-
-li a {
-  display: block;
-  color: rgb(30, 77, 59);
-  text-align: center;
-  padding: 10px 10px;
-  font-weight: bold;
-  font-size: large;
-  font-family: 'Helvetica', 'Arial', sans-serif;
-  border-radius: 4px;
-}
-
-li a:hover {
-  background-color: rgba(22, 172, 140, 0.123);
-}
-.option1:hover{
-  background-color: #2da58bc2;
-}
-.add{
-  border-right: none;
-}
 #mainDiv{
   margin: 0 auto;
   width: 90%;
@@ -70,7 +21,7 @@ button{
   background: linear-gradient(rgb(231, 231, 231), #0a3f33);
   background-repeat: no-repeat;
   border: none;
-  border-radius: 45%;
+  border-radius: 30%;
 }
 button:hover{
   background: rgba(9, 90, 72, 0.678);
